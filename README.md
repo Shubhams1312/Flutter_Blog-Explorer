@@ -1,4 +1,4 @@
-# f_project
+# Flutter_Blog-Explorer
 
 A new Flutter project.
 
